@@ -4,6 +4,7 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
 nav ul {
     display: flex;
     list-style: none;
@@ -26,3 +27,4 @@ nav ul {
         padding: 0;
         background-color: #46c4d4;
     }
+
