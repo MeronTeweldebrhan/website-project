@@ -4,7 +4,7 @@ This is a simple eCommerce website made as a project for practice and learning p
 It includes basic HTML and CSS with some fun elements like a scrolling marquee and product showcase.
 
 
---> Home Page (index.html)
+--> Home Page (home.html)
 Contains a hero section with welcome text.
 Navigation bar to move between pages.
 Featured products: Accessories, Laptops, and Smartphones (with placeholder images and prices).
@@ -28,7 +28,7 @@ Simple navigation using HTML.
 
 --> To Try It Out
 Clone this repository or download the HTML and CSS files.
-Open index.html in your browser.
+Open home.html in your browser.
 Click through the pages and explore!
 
 ---> What Can Be Improved
