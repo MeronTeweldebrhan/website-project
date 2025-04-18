@@ -38,5 +38,10 @@ nav ul {
         height: 150px;
         border-radius: 35%;
       }
-      
+      .social-media {
+        display: flex;
+       list-style: none;
+        background: #333;
+        padding: 10px;
+      }
                 
