@@ -27,4 +27,16 @@ nav ul {
         padding: 0;
         background-color: #46c4d4;
     }
-
+    .hero {
+        background: linear-gradient(to right, #4facfe, #00f2fe);
+        color: white;
+        text-align: center;
+        padding: 60px 20px;
+      }
+      .img{
+        max-width: 150px;
+        height: 150px;
+        border-radius: 35%;
+      }
+      
+                
